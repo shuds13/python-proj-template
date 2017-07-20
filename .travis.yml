@@ -1,10 +1,11 @@
 language: python
+dist: precise
 python:
   - "2.7"
   - "3.3"
   - "3.4"
   - "3.5"
-  - "pypy"
+  - "pypy" #commenting out pypy as does not work on trusty yet (travis new default)
 # command to install dependencies
 install:
   - "pip install ."
