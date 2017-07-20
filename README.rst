@@ -2,10 +2,10 @@
 Python Boilerplate
 ===============================
 
-.. image:: https://img.shields.io/travis/shuds13/boiler-plate.svg
+.. image:: https://img.shields.io/travis/shuds13/python-proj-template.svg
         :target: https://travis-ci.org/shuds13/python-proj-template
 
-.. image:: https://img.shields.io/pypi/v/boiler-plate.svg
+.. image:: https://img.shields.io/pypi/v/python-proj-template.svg
         :target: https://pypi.python.org/pypi/python-proj-template
 
 
