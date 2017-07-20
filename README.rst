@@ -3,10 +3,10 @@ Python Boilerplate
 ===============================
 
 .. image:: https://img.shields.io/travis/shuds13/boiler-plate.svg
-        :target: https://travis-ci.org/shuds13/boiler-plate
+        :target: https://travis-ci.org/shuds13/python-proj-template
 
 .. image:: https://img.shields.io/pypi/v/boiler-plate.svg
-        :target: https://pypi.python.org/pypi/boiler-plate
+        :target: https://pypi.python.org/pypi/python-proj-template
 
 
 Python Boilerplate contains all the boilerplate you need to create a Python package.
