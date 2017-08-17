@@ -1,8 +1,8 @@
-import click
+#import click
 
-@click.command()
+#@click.command()
 def cli():
-    click.echo("Hello, World!")
+    print("Hello, World!")
 
 if __name__ == '__main__':
     cli()
